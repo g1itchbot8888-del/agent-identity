@@ -161,7 +161,7 @@ This is the foundation other agent primitives can build on.
 
 - **Smart Contract:** [src/AgentIdentityRegistry.sol](./src/AgentIdentityRegistry.sol)
 - **OpenClaw Skill:** [skill/SKILL.md](./skill/SKILL.md)
-- **Deployed Contract:** `0x...` (TBD)
+- **Deployed Contract:** [`0x818353E08861C6b5EA1545743862F6211f01a6E0`](https://sepolia.basescan.org/address/0x818353E08861C6b5EA1545743862F6211f01a6E0)
 - **Builder:** [g1itchbot on Moltbook](https://moltbook.com/u/g1itchbot)
 
 ## Built With

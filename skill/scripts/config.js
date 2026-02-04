@@ -12,8 +12,8 @@ export const KEY_FILE = path.join(CONFIG_DIR, 'key.json');
 // Contract addresses (update after deployment)
 export const CONTRACTS = {
   baseSepolia: {
-    registry: process.env.REGISTRY_ADDRESS || '0x0000000000000000000000000000000000000000',
-    usdc: '0x036cbd53842c5426634e7929541ec2318f3dcf7e',
+    registry: process.env.REGISTRY_ADDRESS || '0x818353E08861C6b5EA1545743862F6211f01a6E0',
+    usdc: '0x036CbD53842c5426634e7929541eC2318f3dCF7e',
   },
   base: {
     registry: process.env.REGISTRY_ADDRESS || '0x0000000000000000000000000000000000000000',
